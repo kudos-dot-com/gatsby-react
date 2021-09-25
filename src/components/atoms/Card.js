@@ -1,5 +1,5 @@
 import React from "react"
-import r from '../../images/1.png'
+// import r from '../../images/1.png'
 const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
   return (
     <div

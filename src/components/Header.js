@@ -1,7 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
-import file from '../images/Soumita Talukdar (1).docx'
+// import file from '../images/Soumita Talukdar (1).docx'
 const Header = () => {
   return (
     <div className="section" id="home">
@@ -50,7 +50,7 @@ const Header = () => {
             <p>{data.headerParagraph}</p>
           </Fade>
           <Fade bottom>
-            <a href={file} download="My_File.docx"> Download Here </a>
+            {/* <a href={file} download="My_File.docx"> Download Here </a>0 */}
           </Fade>
         </div>
       </div>
