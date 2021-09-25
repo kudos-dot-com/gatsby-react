@@ -7,9 +7,9 @@ import designIcon from "./images/design.svg"
 import codeIcon from "./images/java.png"
 
 // Social Icon
-import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
+import githubIcon from "./images/linkedin.png"
+import codepenIcon from "./images/facebook-circular-logo.png"
+// import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
 export default {
@@ -44,7 +44,7 @@ export default {
       imageSrc:
       require('./images/1.png'),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.hackerrank.com/certificates/3af13dc45afc",
     },
     {
       title: "Java Hackerrank Certification", //Project Title - Add Your Project Title Here
@@ -53,7 +53,7 @@ export default {
       imageSrc:
       require('./images/2.png'),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.hackerrank.com/certificates/0edf2df4430f",
     },
     {
       title: "EP SEY CERTIFICATION", //Project Title - Add Your Project Title Here
@@ -62,7 +62,7 @@ export default {
       imageSrc:
       require('./images/3.png'),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.efset.org/cert/WiotBs",
     },
     {
       title: "BSNL Certification", //Project Title - Add Your Project Title Here
@@ -71,7 +71,7 @@ export default {
       imageSrc:
       require('./images/4.png'),
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "",
     },
 
     /*
@@ -149,15 +149,11 @@ export default {
     { img: githubIcon, url: "linkedin.com/in/soumita-talukdar-a34169219" },
     {
       img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      url: "https://www.facebook.com/soumita.talukdar.9",
     },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/soumitatalukdar2000/",
     },
   ],
 

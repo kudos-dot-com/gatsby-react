@@ -42,7 +42,8 @@
     }
   }
   .image-wrapper {
-    width: 30%;
+    
+    width: 50%;
     display: flex;
     align-items: center;
     background-size: center;
@@ -58,8 +59,42 @@
       width: 100%;
     }
   }
+  // .buttons{
+  //   // padding-top: 60px;
+  //   @include media(">=tablet", "<desktop") {
+  //   height:100%;
+  //   width:100%;
+  //   // background-color: aqua;
+  //   div:nth-child(1){
+  //     height: 10px;
+  //     width: 120px;
+  //     border-radius: 50px;
+  //     border: 1px solid #0008;
+  //     position: absolute;
+  //     // margin-bottom: 750px;
+  //     transform: translateY(-30px);
+  //     margin-left: 220px;
+  //   }
+  //   div:nth-child(2){
+  //     height: 50px;
+  //     width: 50px;
+  //     border-radius: 50%;
+  //     border: 1px solid #0008;
+  //     position: absolute;
+  //     // transform:translateX(100%);
+  //     margin-top: 505px;
+  //     margin-left: 245px;
+  //   }
+  //   // margin-top: 555px;
+  // }
+  // }
   img{
+    padding: 60px 3px ;
     height: 500px;
-    // width: 100%;   
+    box-shadow: 6px 9px 14px 0px rgba(0,0,0,0.52);
+      border-radius: 20px;
+      -webkit-box-shadow: 6px 9px 14px 0px rgba(0,0,0,0.52);
+      -moz-box-shadow: 6px 9px 14px 0px rgba(0,0,0,0.52);
+      
   }
 }

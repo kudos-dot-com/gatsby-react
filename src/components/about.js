@@ -22,7 +22,12 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
+            
             <img src={aboutImage} alt="about"></img>
+            <div className="buttons">
+              <div></div>
+              <div></div>
+            </div>
           </div>
         </div>
       </div>
