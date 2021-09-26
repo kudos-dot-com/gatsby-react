@@ -36,6 +36,8 @@
       }
     }
     p {
+
+      text-transform:capitalise;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
