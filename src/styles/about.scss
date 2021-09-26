@@ -37,7 +37,7 @@
     }
     p {
 
-      text-transform:capitalise;
+      text-transform: capitalize;
       @include media(">=tablet", "<desktop") {
         text-align: center;
       }
