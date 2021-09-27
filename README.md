@@ -33,7 +33,7 @@ We highly recommend to read through the [Deploying on Github Pages](https://crea
 
 You could also host directly with Vercel by linking your own repository.
 
-[![Deploy To Netlify](https://www.vercel.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
+[![Deploy To Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chetanverma16/react-portfolio-template)
 
 For more information, read [hosting on Netlify](https://create-react-app.dev/docs/deployment/#netlify).
 
