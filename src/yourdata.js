@@ -139,7 +139,7 @@ export default {
 
   promotionHeading: "Address",
   promotionPara:
-  "64/11 Narisangha Avenue, Dum Dum, kolkata- 700074",  // End Promotion Section -----------------
+  "64/11 Narasingha Avenue, Dum Dum, kolkata- 700074",  // End Promotion Section -----------------
 
   //   Contact Section --------------
 
