@@ -29,9 +29,9 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-  "i am currently pursuing my Btech Degree from Kalinga Institute of Industrial Technology, bhubaneswar",
+  "i am currently pursuing my B.tech Degree from Kalinga Institute of Industrial Technology, bhubaneswar",
   //Contact Email
-  contactEmail: "talukdarsoumita2021@gmail.com",
+  contactEmail: "talukdarsoumita2000@gmail.com",
 
   // End Header Details -----------------------
 
@@ -40,23 +40,23 @@ export default {
     {
       title: "basic problem solving", //Project Title - Add Your Project Title Here
       para:
-      "earned hackerrank certification for basic problem solving",      //Project Image - Add Your Project Image Here
+      "earned HackerRank certification for basic problem solving",      //Project Image - Add Your Project Image Here
       imageSrc:
       require('./images/1.png'),
       //Project URL - Add Your Project Url Here
       url: "https://www.hackerrank.com/certificates/3af13dc45afc",
     },
     {
-      title: "Java Hackerrank Certification", //Project Title - Add Your Project Title Here
+      title: "Java HackerRank Certification", //Project Title - Add Your Project Title Here
       para:
-      "earned hackerrank certification for java programming",      //Project Image - Add Your Project Image Here
+      "earned HackerRank certification for java programming",      //Project Image - Add Your Project Image Here
       imageSrc:
       require('./images/2.png'),
       //Project URL - Add Your Project Url Here
       url: "https://www.hackerrank.com/certificates/0edf2df4430f",
     },
     {
-      title: "EP SEY CERTIFICATION", //Project Title - Add Your Project Title Here
+      title: "EFSET CERTIFICATION", //Project Title - Add Your Project Title Here
       para:
       "succesfully completed EP SEY certification",      //Project Image - Add Your Project Image Here
       imageSrc:
@@ -67,7 +67,7 @@ export default {
     {
       title: "BSNL Certification", //Project Title - Add Your Project Title Here
       para:
-    "got hands on training from bsnl certification",      //Project Image - Add Your Project Image Here
+    "got hands on training from BSNL certification",      //Project Image - Add Your Project Image Here
       imageSrc:
       require('./images/4.png'),
       //Project URL - Add Your Project Url Here
@@ -146,7 +146,7 @@ export default {
   contactSubHeading: "Phone Number: 9330308221",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "linkedin.com/in/soumita-talukdar-a34169219" },
+    { img: githubIcon, url: "https://www.linkedin.com/in/soumita-talukdar-a34169219" },
     {
       img: codepenIcon,
       url: "https://www.facebook.com/soumita.talukdar.9",
