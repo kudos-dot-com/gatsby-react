@@ -89,7 +89,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "i am currently pusrsuing my btech degree in electronics and telecommunication. i would like to have a hands on experience and knowledge which i can implement in future challenges and career growth.",
+    "i am currently pusrsuing my B.tech degree in electronics and telecommunication. i would like to have a hands on experience and knowledge which i can implement in future challenges and career growth.",
   aboutParaTwo:
   "i am a team player and is always ready to take on challanges. i am enthusiatic and want to develop a technical purview",  
   aboutParaThree:
